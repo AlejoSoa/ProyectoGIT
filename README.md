@@ -122,13 +122,17 @@ git push -u origin main
 
 ---
 
+### 📕 Extra: Para modificar alguna parte en el GitHub y comentarla digita este comando que se encuentre en su proyecto
 
+```bash
+git add #Lugar que deseas modificar
+git commit -m "Comentario durante el desarrollo"
+git push
+```
+---
 
 ## 🖊️ **Conclusion**
 
 ### Git es una herramienta recomendada para el control de versiones que permite llevar el historial de cambios de tu proyecto y GitHub complementa este sistema al ofrecer una plataforma en línea donde los desarrolladores pueden **almacenar, compartir y colaborar** en diversos proyectos de software.
 
 ---
-git add .
-git commit -m "Trabajo terminado"
-git push
