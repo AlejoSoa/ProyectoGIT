@@ -14,7 +14,8 @@
 | `git commit -m "mensaje"` | Guarda los cambios en el repositorio local con un mensaje descriptivo |
 | `git log` | Muestra el historial de commits realizados. |
 | `git remote add origin [URL]` | Conecta el repositorio local con un repositorio remoto en GitHub |
-| `git push -u origin main` | Envía los cambios confirmados al repositorio remoto |
+| `git push -u origin main` | Envia los cambios confirmados al repositorio remoto |
+| `git push` | Envia commits a la rama remota configurada. |
 | `git pull` | Descarga los cambios mas recientes desde el repositorio remoto |
 | `git clone [URL]` | Crea una copia local de un repositorio existente en GitHub |
 
@@ -123,7 +124,7 @@ git push -u origin main
 
 
 
-## 🖊️**Conclusion**
+## 🖊️ **Conclusion**
 
 ### Git es una herramienta recomendada para el control de versiones que permite llevar el historial de cambios de tu proyecto y GitHub complementa este sistema al ofrecer una plataforma en línea donde los desarrolladores pueden **almacenar, compartir y colaborar** en diversos proyectos de software.
 
