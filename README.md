@@ -96,8 +96,9 @@ git remote add origin https://github.com/AlejoSoa/ProyectoGIT.git
 ```
 
 ## Ejemplo:
-
 ![Parte 5](Imagenes/parte5.png)
+![Parte 5](Imagenes/parte51.png)
+
 
 ---
 
